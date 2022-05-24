@@ -1,0 +1,19 @@
+D:\Visual Studio\weather app GUI\weather app GUI\obj\Debug\net6.0-windows\weather app GUI.csproj.AssemblyReference.cache
+D:\Visual Studio\weather app GUI\weather app GUI\obj\Debug\net6.0-windows\weather_app_GUI.Form1.resources
+D:\Visual Studio\weather app GUI\weather app GUI\obj\Debug\net6.0-windows\weather app GUI.csproj.GenerateResource.cache
+D:\Visual Studio\weather app GUI\weather app GUI\obj\Debug\net6.0-windows\weather app GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\weather app GUI\weather app GUI\obj\Debug\net6.0-windows\weather app GUI.AssemblyInfoInputs.cache
+D:\Visual Studio\weather app GUI\weather app GUI\obj\Debug\net6.0-windows\weather app GUI.AssemblyInfo.cs
+D:\Visual Studio\weather app GUI\weather app GUI\obj\Debug\net6.0-windows\weather app GUI.csproj.CoreCompileInputs.cache
+D:\Visual Studio\weather app GUI\weather app GUI\bin\Debug\net6.0-windows\weather app GUI.exe
+D:\Visual Studio\weather app GUI\weather app GUI\bin\Debug\net6.0-windows\weather app GUI.deps.json
+D:\Visual Studio\weather app GUI\weather app GUI\bin\Debug\net6.0-windows\weather app GUI.runtimeconfig.json
+D:\Visual Studio\weather app GUI\weather app GUI\bin\Debug\net6.0-windows\weather app GUI.dll
+D:\Visual Studio\weather app GUI\weather app GUI\bin\Debug\net6.0-windows\weather app GUI.pdb
+D:\Visual Studio\weather app GUI\weather app GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Visual Studio\weather app GUI\weather app GUI\obj\Debug\net6.0-windows\weather app GUI.csproj.CopyComplete
+D:\Visual Studio\weather app GUI\weather app GUI\obj\Debug\net6.0-windows\weather app GUI.dll
+D:\Visual Studio\weather app GUI\weather app GUI\obj\Debug\net6.0-windows\refint\weather app GUI.dll
+D:\Visual Studio\weather app GUI\weather app GUI\obj\Debug\net6.0-windows\weather app GUI.pdb
+D:\Visual Studio\weather app GUI\weather app GUI\obj\Debug\net6.0-windows\weather app GUI.genruntimeconfig.cache
+D:\Visual Studio\weather app GUI\weather app GUI\obj\Debug\net6.0-windows\ref\weather app GUI.dll
