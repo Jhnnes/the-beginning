@@ -1,0 +1,17 @@
+D:\Visual Studio\WetterApp\WetterApp\bin\Debug\net6.0\WetterApp.exe
+D:\Visual Studio\WetterApp\WetterApp\bin\Debug\net6.0\WetterApp.deps.json
+D:\Visual Studio\WetterApp\WetterApp\bin\Debug\net6.0\WetterApp.runtimeconfig.json
+D:\Visual Studio\WetterApp\WetterApp\bin\Debug\net6.0\WetterApp.dll
+D:\Visual Studio\WetterApp\WetterApp\bin\Debug\net6.0\WetterApp.pdb
+D:\Visual Studio\WetterApp\WetterApp\obj\Debug\net6.0\WetterApp.csproj.AssemblyReference.cache
+D:\Visual Studio\WetterApp\WetterApp\obj\Debug\net6.0\WetterApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\WetterApp\WetterApp\obj\Debug\net6.0\WetterApp.AssemblyInfoInputs.cache
+D:\Visual Studio\WetterApp\WetterApp\obj\Debug\net6.0\WetterApp.AssemblyInfo.cs
+D:\Visual Studio\WetterApp\WetterApp\obj\Debug\net6.0\WetterApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\WetterApp\WetterApp\obj\Debug\net6.0\WetterApp.dll
+D:\Visual Studio\WetterApp\WetterApp\obj\Debug\net6.0\refint\WetterApp.dll
+D:\Visual Studio\WetterApp\WetterApp\obj\Debug\net6.0\WetterApp.pdb
+D:\Visual Studio\WetterApp\WetterApp\obj\Debug\net6.0\WetterApp.genruntimeconfig.cache
+D:\Visual Studio\WetterApp\WetterApp\obj\Debug\net6.0\ref\WetterApp.dll
+D:\Visual Studio\WetterApp\WetterApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Visual Studio\WetterApp\WetterApp\obj\Debug\net6.0\WetterApp.csproj.CopyComplete

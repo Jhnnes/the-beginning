@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6QvJeMe/JIqn6SgwY536gC+pvdxIh6Bw3j3wmuqk2ZkkG55q6kf6LBqIz4Q5NOlNoixxqGihBQzX7mIFbw2lQQ==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio\\WetterApp\\WetterApp\\WetterApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jhnne\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
