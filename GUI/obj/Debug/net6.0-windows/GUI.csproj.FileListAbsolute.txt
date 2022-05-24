@@ -1,0 +1,17 @@
+D:\Visual Studio\GUI\GUI\bin\Debug\net6.0-windows\GUI.exe
+D:\Visual Studio\GUI\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+D:\Visual Studio\GUI\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+D:\Visual Studio\GUI\GUI\bin\Debug\net6.0-windows\GUI.dll
+D:\Visual Studio\GUI\GUI\bin\Debug\net6.0-windows\GUI.pdb
+D:\Visual Studio\GUI\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+D:\Visual Studio\GUI\GUI\obj\Debug\net6.0-windows\GUI.Form1.resources
+D:\Visual Studio\GUI\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+D:\Visual Studio\GUI\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\GUI\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+D:\Visual Studio\GUI\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+D:\Visual Studio\GUI\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\Visual Studio\GUI\GUI\obj\Debug\net6.0-windows\GUI.dll
+D:\Visual Studio\GUI\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+D:\Visual Studio\GUI\GUI\obj\Debug\net6.0-windows\GUI.pdb
+D:\Visual Studio\GUI\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+D:\Visual Studio\GUI\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
